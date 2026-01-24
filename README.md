@@ -55,5 +55,8 @@ Actively preparing for a **junior penetration testing / cybersecurity internship
 Motivated to learn, practice, and grow through hands-on labs, real-world methodologies, and ethical hacking principles.
 
 ---
+### 🔗 Connect with me professionally:  
+- LinkedIn: https://www.linkedin.com/in/yourprofile
 
+---
 ⚠️ All activities and projects are performed in **authorized lab environments for educational purposes only**.
